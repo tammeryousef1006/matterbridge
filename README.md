@@ -57,7 +57,7 @@ Test the installation with:
 matterbridge -bridge
 ```
 
-Now it is possible to open the frontend at the link provided (default: http://localhost:3000)
+Now it is possible to open the frontend at the link provided (default: http://localhost:8283)
 
 ## Usage
 
@@ -85,7 +85,7 @@ matterbridge -help
 
 ## Frontend
 
-Matterbridge has a frontend available on http://localhost:3000
+Matterbridge has a frontend available on http://localhost:8283
 
 You can change the default port by adding the frontend parameter when you launch it.
 
